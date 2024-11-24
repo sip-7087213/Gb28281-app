@@ -46,3 +46,18 @@
 - [x] 支持屏幕推流
 - [x] 支持30种OpenGL滤镜
 - [x] 支持滤镜录制 / 滤镜截图
+
+
+## 截图(查看目录 images)
+- 1. GB28181 配置
+<img width="800" alt="GB28181 配置" src="https://github.com/sip-7087213/Gb28281-app/blob/main/images/Gb28181-config.jpg">
+- 2. GB28181 配置2
+<img width="800" alt="GB28181 配置2" src="https://github.com/sip-7087213/Gb28281-app/blob/main/images/Gb28181-config-2.jpg">
+- 3. 主界面
+<img width="800" alt="主界面" src="https://github.com/sip-7087213/Gb28281-app/blob/main/images/main.jpg">
+- 4. 点播
+<img width="800" alt="点播" src="https://github.com/sip-7087213/Gb28281-app/blob/main/images/play-video.png">
+- 4. 点播H264编码
+<img width="800" alt="点播H264" src="https://github.com/sip-7087213/Gb28281-app/blob/main/images/streawm-h264.png">
+- 5. 点播H265编码
+<img width="800" alt="点播H265" src="https://github.com/sip-7087213/Gb28281-app/blob/main/images/play-h265.png">
