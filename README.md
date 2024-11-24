@@ -48,6 +48,9 @@
 - [x] 支持30种OpenGL滤镜
 - [x] 支持滤镜录制 / 滤镜截图
 
+## 流媒体服务器推荐
+
+https://gitee.com/yunshiting/ABLMediaServer
 
 ## 截图(查看目录 images)
 - GB28181 配置
